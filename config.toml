@@ -1,0 +1,75 @@
+baseURL = "https://techdebtburndown.com/"
+languageCode = "en-us"
+title = "Tech Debt Burndown Podcast"
+theme = "castanet"
+paginate = 9
+
+[permalinks]
+	page = "/:filename/"
+	about = "/:filename/"
+	episode = "/:filename/"
+	redirect = "/:filename"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "RSS"]
+
+# The theme supports menus with up to one submenu per menu item
+# The menu name must be "Main"
+# The menus are sorted based upon their identifier
+ [[Menu.Main]]
+     name = "About"
+     identifier = "about"
+     url = "/about"
+ [[Menu.Main]]
+    name = "Contact"
+    identifier = "contact"
+    url = "/contact"
+ [[Menu.Main]]
+    name = "Guests"
+    identifier = "guests"
+    url = "/guest"
+ [[Menu.Main]]
+    name = "Resources"
+    identifier = "resources"
+    url = "#!"
+ [[Menu.Main]]
+    name = "Books"
+    identifier = "books"
+    url = "/books"
+    parent = "resources"
+    
+[[Menu.Main]]
+    name = "Podcasts"
+    identifier = "podcasts"
+    url = "/podcasts"
+    parent = "resources"
+
+[params]
+mainSections = ["episode"]
+site_theme = "blue"
+site_layout = "grid"
+enable_jumbo = "false"
+favicon = "favicon.ico"
+copyright_notice = "Copyright 2021 [Tech Debt Burndown](https://techdebtburndown.com)"
+description = "Chris and Nick chat with each other and guests about tech debt and what to do about it."
+  [params.feed]
+    feed_copyright = "Copyright 2021 Tech Debt Burndown" #do not use markdown in this field; it is used in the feed
+    itunes_subtitle = "subtitle" #no markdown or HTML
+    itunes_author = "Nick Selby and Chris Swan" #no markdown or HTML
+    itunes_summary = "summary" # Limited to 4000 characters or less, plain text, no HTML
+    itunes_owner_name = "Chris Swan"
+    itunes_owner_email = "chris@techdebtburndown.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
+    itunes_image = "https://techdebtburndown.com/img/TBD-Logo.jpg" #fqdn to the image art for your podcast
+    itunes_top_category = "Technology"
+    itunes_first_sub_category = "Software How-To"
+    itunes_second_sub_category = "Tech News"
+
+  [params.social]
+    github = "Tech-Debt-Burndown"
+
+  [params.authors]
+    [params.authors.Ado]
+		name = ""
+		thumbnail = "img/TDB-Logo.jpg"
+		bio = ""
