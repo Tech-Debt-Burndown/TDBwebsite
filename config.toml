@@ -22,28 +22,9 @@ paginate = 9
      identifier = "about"
      url = "/about"
  [[Menu.Main]]
-    name = "Contact"
-    identifier = "contact"
-    url = "/contact"
- [[Menu.Main]]
     name = "Guests"
     identifier = "guests"
     url = "/guest"
- [[Menu.Main]]
-    name = "Resources"
-    identifier = "resources"
-    url = "#!"
- [[Menu.Main]]
-    name = "Books"
-    identifier = "books"
-    url = "/books"
-    parent = "resources"
-    
-[[Menu.Main]]
-    name = "Podcasts"
-    identifier = "podcasts"
-    url = "/podcasts"
-    parent = "resources"
 
 [params]
 mainSections = ["episode"]
@@ -53,6 +34,7 @@ enable_jumbo = "false"
 favicon = "favicon.ico"
 copyright_notice = "Copyright 2021 [Tech Debt Burndown](https://techdebtburndown.com)"
 description = "Chris and Nick chat with each other and guests about tech debt and what to do about it."
+media_prefix = "https://media.blubrry.com/techdebtburndown/content.blubrry.com/techdebtburndown/"
   [params.feed]
     feed_copyright = "Copyright 2021 Tech Debt Burndown" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "subtitle" #no markdown or HTML
@@ -67,9 +49,10 @@ description = "Chris and Nick chat with each other and guests about tech debt an
 
   [params.social]
     github = "Tech-Debt-Burndown"
+    twitter_domain = "techdebtburndown.com"
 
   [params.authors]
-    [params.authors.Ado]
-		name = ""
+    [params.authors.TDB]
+		name = "Tech Debt Burndown"
 		thumbnail = "img/TDB-Logo.jpg"
 		bio = ""
