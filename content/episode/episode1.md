@@ -66,7 +66,7 @@ The discussion moves to tests: is there a vuln in the code, but the bigger aspec
 
 We are constantly talking secure by design, shifft ledft, but what does this mean in practicality? If i am starting a software project today, what am I going to do differently now from last year?
 
-Nick desceribes Squad Security Liaison program, to force collaboration and make introductions among engineers and security people on a regular basis to encourage interaction and collaboration that mean we know one another before problemsexist, so relationships are there when something goes wrong. 
+Nick describes Squad Security Liaison program, to force collaboration and make introductions among engineers and security people on a regular basis to encourage interaction and collaboration that mean we know one another before problemsexist, so relationships are there when something goes wrong. 
 
 
 This podcast is all about learning! 
