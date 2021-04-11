@@ -1,7 +1,7 @@
 +++
 Date = 2021-04-11T16:00:00Z
 title = "Ian Amit"
-Pronouns = ""
+#Pronouns = ""
 Twitter = "iiamit"
 Website = "http://www.iamit.org"
 Type = "guest"
