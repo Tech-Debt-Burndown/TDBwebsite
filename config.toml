@@ -34,7 +34,7 @@ enable_jumbo = "false"
 favicon = "favicon.ico"
 copyright_notice = "Copyright 2021 [Tech Debt Burndown](https://techdebtburndown.com)"
 description = "Chris and Nick chat with each other and guests about tech debt and what to do about it."
-media_prefix = "https://media.blubrry.com/techdebtburndown/content.blubrry.com/techdebtburndown/"
+media_prefix = "https://api.spreaker.com/v2/episodes/"
   [params.feed]
     feed_copyright = "Copyright 2021 Tech Debt Burndown" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "subtitle" #no markdown or HTML
