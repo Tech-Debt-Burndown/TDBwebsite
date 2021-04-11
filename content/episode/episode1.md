@@ -54,7 +54,7 @@ Singaporean: very prescriptive.
 
 Anglo-American: Principle based, broad brush of expectations and relying on audit companies
 
-Swiss: More acomparative: an expectation of participants in the marketplace to reach a certain standards.
+Swiss: More comparative: an expectation of participants in the marketplace to reach a certain standards.
 
 Nick mentioned US auditors are asking more about tech debt but not getting highly specific enough to differentiate betwen tech debt and policy debt which might drive it.
 
