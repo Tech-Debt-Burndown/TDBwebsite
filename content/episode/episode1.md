@@ -24,13 +24,13 @@ images = ["https://techdebtburndown.com/img/TDB-Logo.jpg"]
 #series = []
 #tags = []
 +++
-What is tech debt? Nick and Chris offer their definitions, despite agreeing there is no right answer. Nick thinks it is the stuff we put off in favor of things we want to do, while Chris quotes <a href="https://en.wikipedia.org/wiki/Ward_Cunningham">Ward Cunningham</a> and <a href="https://martinfowler.com/" target="_blank">Martin Fowler</a>, summarizing that technical debt is  basically the quick and dirty fixes that incur interest payments, and using the concepts of tech debt to describe problems faced over time. 
+What is tech debt? Nick and Chris offer their definitions, despite agreeing there is no right answer. Nick thinks it is the stuff we put off in favor of things we want to do, while Chris quotes [Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham) and [Martin Fowler](https://martinfowler.com), summarizing that technical debt is  basically the quick and dirty fixes that incur interest payments, and using the concepts of tech debt to describe problems faced over time. 
 
 A chat about "shift left" or moving earlier in the SDLC, which boils down to the human factors of tech debt accrual. 
 
 Nick mentions a collection of moments in which decisions are made to do the scalable thing or do the fun thing. Chris points out these concepts apply to both Waterfall and Agile approaches, and invokes <a href="https://twitter.com/psd">Paul Downey</a> in his discussion of when decisions get made and how they are addressed.
 
-When should it be addressed? Why do organizations schedule huge tech debt burndowns as opposed to building in TDB to every sprint, and Nick quotes <a href="https://www.philvenables.com/about">Phil Venables</a> who tweeted that we should measure tech debt in the terms of what percentage of dev time is spent on this. 
+When should it be addressed? Why do organizations schedule huge tech debt burndowns as opposed to building in TDB to every sprint, and Nick quotes [Phil Venables](https://www.philvenables.com/about) who tweeted that we should measure tech debt in the terms of what percentage of dev time is spent on this. 
 
 Which leads Chris to ask about what metrics are right. How do you calibrate information about doing it quick versus doing it right? 
 
