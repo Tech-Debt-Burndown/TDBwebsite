@@ -1,12 +1,18 @@
 +++
-Date = 2021-04-11T16:00:00Z
+Date = 2021-04-11T09:56:50-04:00
 title = "Ian Amit"
-#Pronouns = ""
+Pronouns = ""
 Twitter = "iiamit"
 Website = "http://www.iamit.org"
 Type = "guest"
 Facebook = "iiamit"
-Thumbnail = "img/guest/iiamit.png"
+Linkedin = ""
+GitHub = ""
+Thumbnail = "img/guest/iamit.png"
+Pinterest = ""
+Instagram = ""
+YouTube = ""
+Twitch = ""
 #Aka = []
 #guest_group = ""
 +++
