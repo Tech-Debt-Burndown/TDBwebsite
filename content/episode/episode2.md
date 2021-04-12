@@ -1,7 +1,7 @@
 +++
 Description = "Episode 2: Ian Amit of Cimpress"
 Date = 2021-04-11T16:01:03-04:00
-PublishDate = 2021-04-11T16:01:03-04:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+PublishDate = 2021-04-11T09:51:03-04:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "44295022/play.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes

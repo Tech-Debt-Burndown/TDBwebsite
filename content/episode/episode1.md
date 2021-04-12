@@ -1,7 +1,7 @@
 +++
 Description = ""
 Date = 2021-04-11T10:52:27-04:00
-PublishDate = 2021-04-11T10:52:27-04:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+PublishDate = 2021-04-11T13:52:27-04:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "44292452/play.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
@@ -64,7 +64,7 @@ Chris invokes the CIA triad and talks about how we have abdicated the 'Availabil
 
 The discussion moves to tests: is there a vuln in the code, but the bigger aspects of debt include paralysis that they can't change anything because they don't have the test coverage to know whether a fix here will affect something unintended there. So test coverage and testability must be part of a strategy to address tech debt. 
 
-We are constantly talking secure by design, shifft ledft, but what does this mean in practicality? If i am starting a software project today, what am I going to do differently now from last year?
+We are constantly talking secure by design, 'shift left,' and the like, but what does this mean in practicality? If i am starting a software project today, what am I going to do differently now from last year?
 
 Nick describes his firm's Squad Security Liaison program, which is designed to foster inter-disciplinary teamwork by making introductions between engineers and security people on a regular basis, to encourage interaction and collaboration. It means they know one another before problems exist, so relationships are there when something goes wrong. 
 
