@@ -64,7 +64,7 @@ Chris invokes the CIA triad and talks about how we have abdicated the 'Availabil
 
 The discussion moves to tests: is there a vuln in the code, but the bigger aspects of debt include paralysis that they can't change anything because they don't have the test coverage to know whether a fix here will affect something unintended there. So test coverage and testability must be part of a strategy to address tech debt. 
 
-We are constantly talking secure by design, 'shift left,' and the like, but what does this mean in practicality? If i am starting a software project today, what am I going to do differently now from last year?
+We are constantly talking secure by design, 'shift left,' and the like, but what does this mean in practicality? So, if we are starting a software project today, what are we going to do differently now from last year?
 
 Nick describes his firm's Squad Security Liaison program, which is designed to foster inter-disciplinary teamwork by making introductions between engineers and security people on a regular basis, to encourage interaction and collaboration. It means they know one another before problems exist, so relationships are there when something goes wrong. 
 
