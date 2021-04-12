@@ -28,7 +28,7 @@ What is tech debt? Nick and Chris offer their definitions, despite agreeing ther
 
 A chat about "shift left" or moving earlier in the SDLC, which boils down to the human factors of tech debt accrual. 
 
-Nick mentions a collection of moments in which decisions are made to do the scalable thing or do the fun thing. Chris points out these concepts apply to both Waterfall and Agile approaches, and invokes <a href="https://twitter.com/psd">Paul Downey</a> in his discussion of when decisions get made and how they are addressed.
+Nick mentions a collection of moments in which decisions are made to do the scalable thing or do the fun thing. Chris points out these concepts apply to both Waterfall and Agile approaches, and invokes [Paul Downey](https://twitter.com/psd) in his discussion of when decisions get made and how they are addressed.
 
 When should it be addressed? Why do organizations schedule huge tech debt burndowns as opposed to building in TDB to every sprint, and Nick quotes [Phil Venables](https://www.philvenables.com/about) who tweeted that we should measure tech debt in the terms of what percentage of dev time is spent on this. 
 
