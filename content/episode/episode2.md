@@ -24,7 +24,14 @@ explicit = "no" # values are "yes" or "no"
 #series = []
 #tags = []
 +++
-"You can't kill all the tech debt; you can't stay completely up to date or there won't be a business." - Ian
+
+
+
+### "You can't kill all the tech debt; you can't stay completely up to date or there won't be a business."
+### -*Ian*
+
+
+**Recording date: February 6, 2021**
 
 We had a great conversation with Ian about how he runs a rather different kind of information security operation that can be described as a group of companies reporting up to one security organization for strategy, but which each support their own individual needs day to day. 
 
