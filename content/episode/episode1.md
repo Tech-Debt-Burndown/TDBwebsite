@@ -29,6 +29,8 @@ images = ["https://techdebtburndown.com/img/TDB-Logo.jpg"]
 
 **Recording date: December 6, 2020**
 
+*Download at [Apple Podcasts](https://podcastsconnect.apple.com/my-podcasts/the-tech-debt-burndown-podcast/1562710899), [Spreaker](https://www.spreaker.com/show/the-tech-debt-burndown-podcast) or wherever you get your podcasts.*
+
 Nick thinks it is the stuff we put off in favor of things we want to do, while Chris quotes [Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham) and [Martin Fowler](https://martinfowler.com), summarizing that technical debt is  basically the quick and dirty fixes that incur interest payments, and using the concepts of tech debt to describe problems faced over time. 
 
 A chat about "shift left" or moving earlier in the SDLC, which boils down to the human factors of tech debt accrual. 

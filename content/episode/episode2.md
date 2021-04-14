@@ -33,6 +33,9 @@ explicit = "no" # values are "yes" or "no"
 
 **Recording date: February 6, 2021**
 
+*Download at [Apple Podcasts](https://podcastsconnect.apple.com/my-podcasts/the-tech-debt-burndown-podcast/1562710899), [Spreaker](https://www.spreaker.com/show/the-tech-debt-burndown-podcast) or wherever you get your podcasts.*
+
+
 We had a great conversation with Ian about how he runs a rather different kind of information security operation that can be described as a group of companies reporting up to one security organization for strategy, but which each support their own individual needs day to day. 
 
 Ian Amit spent most of his career in information security, with a lot of time on the offensive side. He spent some years as a senior manager at AWS, and in the past few years he has been Chief Security office at [Cimpress](https://cimpress.com), which runs a collection of independent businesses whose CISOs report up to Ian, who is kind of the supervisory CSO - this iset up is most similar to that of GE.  
