@@ -38,7 +38,7 @@ explicit = "no" # values are "yes" or "no"
 
 We had a great conversation with Ian about how he runs a rather different kind of information security operation that can be described as a group of companies reporting up to one security organization for strategy, but which each support their own individual needs day to day. 
 
-Ian Amit spent most of his career in information security, with a lot of time on the offensive side. He spent some years as a senior manager at AWS, and in the past few years he has been Chief Security office at [Cimpress](https://cimpress.com), which runs a collection of independent businesses whose CISOs report up to Ian, who is kind of the supervisory CSO - this iset up is most similar to that of GE.  
+Ian Amit spent most of his career in information security, with a lot of time on the offensive side. He spent some years as a senior manager at AWS, and in the past few years he has been Chief Security office at [Cimpress](https://cimpress.com), which runs a collection of independent businesses whose CISOs report up to Ian, who is kind of the supervisory CSO - this set up is most similar to that of GE's.  
 
 Some of the smaller firms have no CISO, and Ian then serves as their de facto CISO, and the larger brands - most notably including [VistaPrint](https://vistaprint.com). And Technical debt is primarily Ian's responsibility - he and Nick have discussed it quite a bit over the years, and Ian was pivotal in a presentation Nick made, [Tech Debt Burndown: Kill It With Fire](https://corncon.net/2020-presentations/#nselby) which he presented at [CornCon VI: The Return of the Cyber Jedi 2021](https://corncon.net/2020.corncon.agenda.html).
 
