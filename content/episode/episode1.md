@@ -31,13 +31,13 @@ images = ["https://techdebtburndown.com/img/TDB-Logo.jpg"]
 
 *Download at [Apple Podcasts](https://podcastsconnect.apple.com/my-podcasts/the-tech-debt-burndown-podcast/1562710899), [Spotify](https://open.spotify.com/show/0t15PUgvQYNWQ6LYXJ8zkz), [iHeartRadio](https://iheart.com/podcast/81137852), [Spreaker](https://www.spreaker.com/show/the-tech-debt-burndown-podcast) or wherever you get your podcasts.*
 
-Nick thinks it is the stuff we put off in favor of things we want to do, while Chris quotes [Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham) and [Martin Fowler](https://martinfowler.com), summarizing that technical debt is  basically the quick and dirty fixes that incur interest payments, and using the concepts of tech debt to describe problems faced over time. 
+Nick thinks it is the stuff we put off in favor of things we want to do\*, while Chris quotes [Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham) and [Martin Fowler](https://martinfowler.com), summarizing that technical debt is  basically the quick and dirty fixes that incur interest payments, and using the concepts of tech debt to describe problems faced over time. 
 
 A chat about "shift left" or moving earlier in the SDLC, which boils down to the human factors of tech debt accrual. 
 
 Nick mentions a collection of moments in which decisions are made to do the scalable thing or do the fun thing. Chris points out these concepts apply to both [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model "The waterfall model is a breakdown of project activities into linear sequential phases, where each phase depends on the deliverables of the previous one and corresponds to a specialisation of tasks- Wikipedia") and [Agile](https://en.wikipedia.org/wiki/Agile_software_development "Agile practices involve discovering requirements and developing solutions through the collaborative effort of self-organizing and cross-functional teams and their customers/end users - Wikipedia") approaches, and invokes [Paul Downey](https://twitter.com/psd) in his discussion of when decisions get made and how they are addressed.
 
-When should it be addressed? Why do organizations schedule huge tech debt burndowns as opposed to building in TDB to every sprint, and Nick quotes [Phil Venables](https://www.philvenables.com/about) who tweeted that we should measure tech debt in the terms of what percentage of dev time is spent on this. 
+When should it be addressed? Why do organizations schedule huge tech debt burndowns as opposed to building in TDB to every sprint (Nick quotes, but forgets to credit, [Ian Amit](https://techdebtburndown.com/guest/iamit/), and this quote is covered in [Episode 2](https://techdebtburndown.com/episode2/)), and Nick quotes [Phil Venables](https://www.philvenables.com/about) who tweeted that we should measure tech debt in the terms of what percentage of dev time is spent on this. 
 
 Which leads Chris to ask about what metrics are right. How do you calibrate information about doing it quick versus doing it right? 
 
@@ -79,3 +79,6 @@ Nick describes his firm's Squad Security Liaison program, which is designed to f
 
 
 This podcast is all about learning! 
+
+------------
+\* Wendy Nather disagrees with "want".
