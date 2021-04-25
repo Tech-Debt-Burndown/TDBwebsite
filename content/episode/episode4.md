@@ -1,7 +1,7 @@
 +++
 Description = "When Wendy Nather began work as an information security analyst, she started asking her CISO friends a question: 'If you just took a CISO job at a company that had no security, what would you buy?' The answers fascinated her. Now at Duo (Cisco), she set out to formalize research that was released as Cisco Secure’s Security Outcomes Study. Wendy discusses the process on this week's podcast."
 Date = 2021-04-24T09:14:23-04:00
-PublishDate = 2021-04-25T09:00:23-04:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+PublishDate = 2021-04-25T00:00:23-04:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "44467944/play.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
@@ -30,7 +30,7 @@ explicit = "no" # values are "yes" or "no"
 
 *Download at [Apple Podcasts](https://podcastsconnect.apple.com/my-podcasts/the-tech-debt-burndown-podcast/1562710899), [Spotify](https://open.spotify.com/show/0t15PUgvQYNWQ6LYXJ8zkz), [iHeartRadio](https://iheart.com/podcast/81137852), [Spreaker](https://www.spreaker.com/show/the-tech-debt-burndown-podcast) or wherever you get your podcasts.*
 
-Chris and Nick welcome their old friend [Wendy Nather](https://blogs.cisco.com/author/wendynather), Head of Advisory CISOs at Duo Security (now Cisco), to the podcast to discuss her work on the [Cisco Security Outcomes Study](https://duo.com/resources/ebooks/security-outcomes-study-cisco-secure). 
+Chris and Nick welcome their old friend [Wendy Nather](https://blogs.cisco.com/author/wendynather), Head of Advisory CISOs at Duo Security (now Cisco), to the podcast to discuss her work on the [Cisco Security Outcomes Study](https://duo.com/resources/ebooks/security-outcomes-study-cisco-secure). Now, technical debt isn't only about security, but they're related - and one of this report's most solid conclusions addresses it specifically. 
 
 When Wendy began her work at The 451 Group (now [451 Research](https://451research.com)), she started asking her CISO friends questions: 'If you've just taken a CISO job at a company that had no security, what would you buy?' The answers fascinated her. Now at Duo (Cisco), she set out to formalize research that was released as Cisco Secure’s Security Outcomes Study. 
 
