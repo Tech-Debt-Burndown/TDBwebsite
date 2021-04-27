@@ -13,7 +13,7 @@ episode_image = "img/TDB-Logo.jpg"
 title = "Tech Debt Burndown Episode 3: Supply Chain Vulnerability & Tech Debt"
 #subtitle = ""
 images = ["img/episode/default-social.jpg"]
-hosts = ["cswan", "nselby"  ] # The names of your hosts, based on the filename without extension.
+hosts = ["cswan", "nselby" ] # The names of your hosts, based on the filename without extension.
 #aliases = ["/##"]
 #youtube = ""
 explicit = "no" # values are "yes" or "no"
@@ -29,7 +29,7 @@ explicit = "no" # values are "yes" or "no"
 
 **Recording date: April 17, 2021**
 
-*Download at [Apple Podcasts](https://podcastsconnect.apple.com/my-podcasts/the-tech-debt-burndown-podcast/1562710899), [Spotify](https://open.spotify.com/show/0t15PUgvQYNWQ6LYXJ8zkz), [iHeartRadio](https://iheart.com/podcast/81137852), [Spreaker](https://www.spreaker.com/show/the-tech-debt-burndown-podcast) or wherever you get your podcasts.*
+*Download at [Apple Podcasts](https://podcastsconnect.apple.com/my-podcasts/the-tech-debt-burndown-podcast/1562710899), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDg3MzE4MC9lcGlzb2Rlcy9mZWVk), [Spotify](https://open.spotify.com/show/0t15PUgvQYNWQ6LYXJ8zkz), [iHeartRadio](https://iheart.com/podcast/81137852), [Spreaker](https://www.spreaker.com/show/the-tech-debt-burndown-podcast) or wherever you get your podcasts.*
 
 This is a common question, and Chris and Nick discovered that they do it differently. 
 

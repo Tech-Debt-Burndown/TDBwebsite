@@ -29,7 +29,7 @@ hosts = ["cswan","nselby"] # The names of your hosts, based on the filename with
 
 **Recording date: December 6, 2020**
 
-*Download at [Apple Podcasts](https://podcastsconnect.apple.com/my-podcasts/the-tech-debt-burndown-podcast/1562710899), [Spotify](https://open.spotify.com/show/0t15PUgvQYNWQ6LYXJ8zkz), [iHeartRadio](https://iheart.com/podcast/81137852), [Spreaker](https://www.spreaker.com/show/the-tech-debt-burndown-podcast) or wherever you get your podcasts.*
+*Download at [Apple Podcasts](https://podcastsconnect.apple.com/my-podcasts/the-tech-debt-burndown-podcast/1562710899), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDg3MzE4MC9lcGlzb2Rlcy9mZWVk), [Spotify](https://open.spotify.com/show/0t15PUgvQYNWQ6LYXJ8zkz), [iHeartRadio](https://iheart.com/podcast/81137852), [Spreaker](https://www.spreaker.com/show/the-tech-debt-burndown-podcast) or wherever you get your podcasts.*
 
 Nick thinks it is the stuff we put off in favor of things we want to do\*, while Chris quotes [Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham) and [Martin Fowler](https://martinfowler.com), summarizing that technical debt is  basically the quick and dirty fixes that incur interest payments, and using the concepts of tech debt to describe problems faced over time. 
 

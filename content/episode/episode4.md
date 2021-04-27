@@ -28,7 +28,7 @@ explicit = "no" # values are "yes" or "no"
 
 **Recording date: December, 2020**
 
-*Download at [Apple Podcasts](https://podcastsconnect.apple.com/my-podcasts/the-tech-debt-burndown-podcast/1562710899), [Spotify](https://open.spotify.com/show/0t15PUgvQYNWQ6LYXJ8zkz), [iHeartRadio](https://iheart.com/podcast/81137852), [Spreaker](https://www.spreaker.com/show/the-tech-debt-burndown-podcast) or wherever you get your podcasts.*
+*Download at [Apple Podcasts](https://podcastsconnect.apple.com/my-podcasts/the-tech-debt-burndown-podcast/1562710899), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDg3MzE4MC9lcGlzb2Rlcy9mZWVk), [Spotify](https://open.spotify.com/show/0t15PUgvQYNWQ6LYXJ8zkz), [iHeartRadio](https://iheart.com/podcast/81137852), [Spreaker](https://www.spreaker.com/show/the-tech-debt-burndown-podcast) or wherever you get your podcasts.*
 
 Chris and Nick welcome their old friend [Wendy Nather](https://blogs.cisco.com/author/wendynather), Head of Advisory CISOs at Duo Security (now Cisco), to the podcast to discuss her work on the [Cisco Security Outcomes Study](https://duo.com/resources/ebooks/security-outcomes-study-cisco-secure). Now, technical debt isn't only about security, but they're related - and one of this report's most solid conclusions addresses it specifically. 
 
