@@ -1,8 +1,8 @@
 +++
-Description = "This week, Chris and Nick discuss the metrics around technical debt, and why there are so few of them."
+Description = "How do you measure technical debt? This week, Chris and Nick discuss the metrics around technical debt, and why there are so few of them."
 Date = 2021-05-02T00:00:00-04:00
 PublishDate = 2021-05-02T00:00:00-04:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
-podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
+podcast_file = "44593888/play.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "img/TDB-Logo.jpg"
