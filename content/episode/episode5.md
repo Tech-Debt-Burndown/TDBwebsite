@@ -40,11 +40,11 @@ They agree that time is a really bad one: trying to quantify tech debt around th
 
 Some organizations build a bit of burndown into every sprint, but Chris isn't seeing that widespread - but Nick says that after about a year, his shop *is* finding ways to do just that. 
 
-It took a year of seeing the results of concerted bursts of burndown, and a comnpany-wide OKR on trustworthiness. One challenge he has is that it's hard to tie information security (which is what Nick does) to availability and scalability as opposed to firewalls. But his colleagues are making great progress. 
+It took a year of seeing the results of concerted bursts of burndown, and a company-wide Objective and Key Result (OKR) on Trustworthiness. One challenge he has is that it's hard to tie in the minds of senior executives information security (which is what Nick does) to availability and scalability as opposed to firewalls. But his colleagues are making great progress. 
 
 Nick thinks the most useful thing he's done in the past year is to embed engineers, developers, SREs and security people into standups as often as possible to try and find the overlapping interests. And that has led to some success around thing together tech debt they need to code around and the performance of engineering squads. 
 
-Chris spent a bunch of time recently looking at Chaos engineering and how to introduce it into what they do, but he's finding that if you've not already got to the stage where you can do good quality progressive engineering you're just not ready to do Chaos engineering. Similarly, Nick thinks that aplies to eng teams that find themselves working harder but not having a commensurate increase in productivity. 
+Chris spent a bunch of time recently looking at Chaos engineering and how to introduce it into what they do, but he's finding that if you've not already got to the stage where you can do good quality progressive engineering you're just not ready to do Chaos engineering. Similarly, Nick thinks that applies to Eng teams that find themselves working harder but not having a commensurate increase in productivity. 
 
 What Chris sees in the bottom 50% of companies is related to a [Charity Majors](https://twitter.com/mipsytipsy/status/1270676644965957633) comment that they have the engine underwater and they have to work ever harder to see that they need to do something to drain the water that is flooding you. 
 
@@ -60,7 +60,9 @@ It seems to be about putting boundaries around the members of teams so that they
 
 This is a self-inflicted wound: rather than just doing a task, they have to remember oral histories of "when you're trying to make something in this environment, here are the 24 undocumented things you have to look out for or they will bite you."
 
-Nick and Chris raise the idea that tech debt is not necessarily just "old stuff" because mainframes are just often not tech debt, because they still work. Tech debt is more tied to the fragility of environments.
+Nick and Chris raise the idea that tech debt is not necessarily just "old stuff" because mainframes are just often not tech debt, because they still work. 
+
+Tech debt is more tied to the fragility of environments.
 
 
 
