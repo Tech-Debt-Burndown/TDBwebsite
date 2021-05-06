@@ -49,6 +49,7 @@ media_prefix = "https://api.spreaker.com/v2/episodes/"
 
   [params.social]
     github = "Tech-Debt-Burndown"
+    twitter = "TechDebtPodcast"
     twitter_domain = "techdebtburndown.com"
 
   [params.authors]
