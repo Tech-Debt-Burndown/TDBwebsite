@@ -50,6 +50,8 @@ After that, the readme and changelogs that go with things should tell a story, b
 
 The conversation turns to [Type 1-Type 2 decisions](https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm) which Jeff Bezos began to discuss back in 1997. Nick gives as an example of what's intended to be a reversible decision the log pipeline that his teams are working on. Chris Mentioned that pipeline engineering may seem to be less worthy work done, but Chris and Nick both feel that pipeline enabling work is among the most important in an organization.
 
+In carrying on the new tradition of references related to what we're discussing, Chris comes up with two important areas of research: [James Governor](https://redmonk.com/jgovernor/author/jgovernor/)'s work on RedMonk about [Progressive Delivery](https://redmonk.com/jgovernor/2018/08/06/towards-progressive-delivery/), and Netflix's work on [Chaos Engineering](https://netflixtechblog.com/tagged/chaos-engineering).
+
 The episode concludes with a pivot to a blog post by Signal's [Moxie Marlinspike](https://signal.org/blog/cellebrite-vulnerabilities/) who took on the mobile device forensics company Cellebrite. Cellebrite had earlier claimed it had "broken" Signal encryption, which was utter balderdash. In the information security community, the document quickly was called the Moxie Manifesto but it should be read as nothing short of a declaration of war against Cellebrite. Cellebrite customers (like law enforcement) are casualties of the war.
 
 Moxie shot back with what may be mistaken for a lighthearted report but which is both ruthless and credible based on his demonstrated exploitation of a Cellebrite box: 
