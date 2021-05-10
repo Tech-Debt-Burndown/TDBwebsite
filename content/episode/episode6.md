@@ -34,7 +34,9 @@ explicit = "no" # values are "yes" or "no"
 
 #### 'People often escape from a role before decisions they have made have a chance to catch up to them.' - Chris ####
 
-Let's talk about pipeline. Lots of things get improved by building continuous delivery pipelines and then going back to them and iteratively making improvements. But Chris thinks that pipelines themselves can be a place where we accrue tech debt, even at the entry point to those pipelines. So, Chris has been looking at branching strategies.
+Let's talk about pipeline. Lots of things get improved by building continuous delivery pipelines and then going back to them and iteratively making improvements. But Chris thinks that pipelines themselves can be a place where we accrue tech debt, even at the entry point to those pipelines. 
+
+So, Chris has been looking at branching strategies.
 
 If you look at open source development, people agree that trunk based strategies are the way to go, so we're taking short terms branches or forks off a trunk, but coming back to it quickly. But engineers from an enterprise background have a range of versions across different customers. This quickly runs to vast differences between versions, and lots of tech debt. 
 
