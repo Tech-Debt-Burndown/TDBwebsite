@@ -5,4 +5,4 @@ description: "Link to GitHub Discussions"
 aliases: "/discussion"
 ---
 
-If you'd like to chat about episodes, suggest guests, or ask questions about Tech Debt then please join us on [GitHub Discussions](https://github.com/Tech-Debt-Burndown/CloudflarePages/discussions)
+If you'd like to chat about episodes, suggest guests, or ask questions about Tech Debt then please join us on [GitHub Discussions](https://github.com/Tech-Debt-Burndown/TDBwebsite/discussions)
