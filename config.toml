@@ -11,7 +11,7 @@ paginate = 9
 	redirect = "/:filename"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]
   page = ["HTML", "RSS"]
 
 # The theme supports menus with up to one submenu per menu item
@@ -21,6 +21,10 @@ paginate = 9
      name = "About"
      identifier = "about"
      url = "/about"
+ [[Menu.Main]]
+     name = "Discussions"
+     identifier = "discussions"
+     url = "/discussions"
  [[Menu.Main]]
     name = "Guests"
     identifier = "guests"
