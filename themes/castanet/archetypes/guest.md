@@ -1,18 +1,18 @@
 +++
 Date = {{ .Date }}
 title = ""
-Pronouns = ""
+#Pronouns = ""
 Twitter = ""
 Website = ""
 Type = "guest"
 Facebook = ""
 Linkedin = ""
 GitHub = ""
-Thumbnail = ""
-Pinterest = ""
-Instagram = ""
-YouTube = ""
-Twitch = ""
+Thumbnail = "img/guest/"
+#Pinterest = ""
+#Instagram = ""
+#YouTube = ""
+#Twitch = ""
 #Aka = []
 #guest_group = ""
 +++
