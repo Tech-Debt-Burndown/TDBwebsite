@@ -30,8 +30,10 @@ let us know, and it can be trimmed in the edit.
 We generally go for non explicit content. But if something's worth swearing
 about then we can flip that bit.
 
-### Bio and photo
+### Bio, photo and pronouns
 
 We create a profile for each guest, which has a bio and 500px square photo.
 Often we can find this stuff on the web. But it helps us out (and helps make
 sure we're accurate) if you can send us the bio and photo you'd like to use.
+
+Please also let us know your preferred pronouns?
