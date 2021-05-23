@@ -33,7 +33,7 @@ explicit = "no" # values are "yes" or "no"
 #### "Everybody wants to reduce tech debt, but nobody wants to pay for it." - Olivier ####
 
 
-Nick and Chris are joined by Olivier Jacques, a Distinguished Technologist at DXC and CTO in DXC’s application services department in France. Recently, Jacques wrote [6 Strategies to Set Time Aside to Improve](https://www.olivierjacques.com/blog/devops/6-strategies-to-set-time-aside-to-improve/), an article that spells out six ways to approach technical debt reduction.
+Nick and Chris are joined by Olivier Jacques, a Distinguished Technologist at DXC and CTO in DXC’s application services department in France. Recently, Jacques wrote [6 Strategies to Set Time Aside to Improve](https://www.olivierjacques.com/blog/devops/6-strategies-to-set-time-aside-to-improve/), an article that spells out six ways to approach technical debt reduction. 
 
 Olivier thinks that policy debt, technical debt, security, debt, infrastructure, debt, and other debt types are something that must be paid attention to, but he was wondering why we don’t seem to have the time to address them  - we are either too busy, or we don't have the management support, or sometimes we don't even know where to start and what do we improve. So he set out to write up some strategies he feels will help. 
 
