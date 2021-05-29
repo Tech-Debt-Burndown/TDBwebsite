@@ -60,7 +60,7 @@ Ian agreed that the executives had a lot of tech debt, lots of companies with di
 
 Ian's approach to metrics is an interactive look at what is there and how it's being burned: both at the tail end (what is there out there that might bite me), and revisit our fresh decisions to be cognizant of repercussions they may have on tech debt accrual. 
 
-This gibes with Ian's quote at the top of the page here, and he added the other quote of his that we love: "Tech debt is not a project; technical debt is a process."
+This jibes with Ian's quote at the top of the page here, and he added the other quote of his that we love: "Tech debt is not a project; technical debt is a process."
 
 Ian says he went through the herky-jerky attempt - start fresh, groan on until you can't proceed anymore, stop everything to burn it down - so often that he realized it just has to be embedded into every sprint. 
 
