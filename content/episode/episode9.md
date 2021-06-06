@@ -34,6 +34,8 @@ explicit = "no" # values are "yes" or "no"
 
 "Where is the time going? Are your people spending 80 percent of their time on crap that doesn't move the business forward? Crap that is toil, that is miserable, that should be automated away? Or are they spending 80 percent of their time on stuff where they're creatively solving problems, that moves the business forward?"
 
+With her work at [Honeycomb](https://honeycomb.io), Charity is now known as a leader - Chris said, "the queen" - in Observability. "I have learned that if you can't see what's going on, you're fscked," Charity tells us, "So much of what we are doing in tech is the hard way. It can be so much easier." 
+
 Chris begins with Charity's definition of "Ops", which he says is the best he's heard. We then ask Charity about technical debt, which Charity feels are the investments you make to get to the next step in your business.
 
 One thing Nick finds interesting is that Charity's idea is that there can be good debt in life (like going to college and learning life lessons) and bad debt in life (like using a high-interest credit card to buy a big flat screen TV) and in the same way there are tech debts that are good and bad. It's about doing tech debt deliberately.
@@ -42,7 +44,15 @@ One thing Nick finds interesting is that Charity's idea is that there can be goo
 
 It's about making the correct investments. 
 
+So much of the complexity of the application is now bound up in the operations. That means we need to have full ability to see within each aspect of the operations to see what is happening. Charity discussed her work at Facebook using a tool called [Scuba](https://research.fb.com/wp-content/uploads/2016/11/scuba-diving-into-data-at-facebook.pdf), and how its capabilities made a huge impression on her. 
 
+After Facebook, Charity realized that she couldn't engineer without this kind of visibility, and established Honeycomb. Charity said the term came from mechanical engineering, and politely says they are rather chuffed that so many people have begun to use the term for essentially all visibility. 
+
+In the beginning Honeycomb thought it would be a niche thing, but it seems that most people in all kinds of ops are finding this useful, and the company is doing very well. Nick mentioned that industry marketers have co-opted the term in the same manner that Big Ag has co-opted the term "Organic" - "Observability" now is applied to any kind of visibility/telemetry tool. 
+
+Chris asks how customers are using observability to understand their tech debt, and like a good CEO, Charity replies that it isn't that It helps with tech debt, it's that it helps with everything - but especially around understanding how your code feels to users, and shines a light on tech debt by helping the humans understand how they are spending their time - on toil, or on creatively solving probelms to move the business forward.
+
+Nick asks about metrics of tech debt, and how you separate toil and misery form good work. In addition to echoing us on Dora metrics, Charity suggests that the best metric of performance as a generic signal is how often you get pulled in after business hours to solve problems. 
 
 
 
