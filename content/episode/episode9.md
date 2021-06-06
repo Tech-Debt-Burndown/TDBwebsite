@@ -32,4 +32,19 @@ explicit = "no" # values are "yes" or "no"
 
 #### "If you want to do something better it's best you name it, and try to understand it, not sweep it under the rug and pretend it doesn't exist." - Charity ####
 
- "Where is the time going? Are your people spending 80 percent of their time on crap that doesn't move the business forward? Crap that is toil, that is miserable, that should be automated away? Or are they spending 80 percent of their time on stuff where they're creatively solving problems, that moves the business forward?"
+"Where is the time going? Are your people spending 80 percent of their time on crap that doesn't move the business forward? Crap that is toil, that is miserable, that should be automated away? Or are they spending 80 percent of their time on stuff where they're creatively solving problems, that moves the business forward?"
+
+Chris begins with Charity's definition of "Ops", which he says is the best he's heard. We then ask Charity about technical debt, which Charity feels are the investments you make to get to the next step in your business.
+
+One thing Nick finds interesting is that Charity's idea is that there can be good debt in life (like going to college and learning life lessons) and bad debt in life (like using a high-interest credit card to buy a big flat screen TV) and in the same way there are tech debts that are good and bad. It's about doing tech debt deliberately.
+
+"We should all be so lucky," Charity says, "as to survive so long as to have to deal with our choices." 
+
+It's about making the correct investments. 
+
+
+
+
+
+
+
