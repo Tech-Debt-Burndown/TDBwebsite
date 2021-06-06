@@ -54,6 +54,9 @@ Chris asks how customers are using observability to understand their tech debt, 
 
 Nick asks about metrics of tech debt, and how you separate toil and misery form good work. In addition to echoing us on Dora metrics, Charity suggests that the best metric of performance as a generic signal is how often you get pulled in after business hours to solve problems. 
 
+But more broadly, if you can't ship your software using CI/CD in 15 minutes - you have an idea and a few minutes later you are looking at it live - if you can't do that very quickly, within the golden interval, that is the most important thing any technical leader can do, setting it up so that the pathologies don't have the time to creep up and overwhelm your team. 
+
+And that is often not an engineering problem, it is one of political will. 
 
 
 
