@@ -14,23 +14,24 @@ the audio. This is a podcast not a vodcast.
 
 We'll usually start out with some casual chat, and a quick run through the key
 points we're hoping to hit during the recording. For the recording itself we
-typically aim for 30-40m in the can to be edited down to ~25m for an episode.
+typically aim for 30-40m in the can to be edited down to about 25m for an episode.	
 
-### Kit
+
+### Kit ###
 
 We want you to sound great, so it will help a lot if you're somewhere quiet,
 on a fixed line to the Internet, with a decent quality mic or headset. It's
-also best if you have headphones or earbuds to reduce any possibility of echo.
+also best if you have headphones or earbuds to reduce any possibility of echo. If you're using the microphone on your headphone lanyard, please take care that the mic doesn't get hung up on clothing or facial hair - this causes a staticy noice that is difficult to edit out. 
 
-### Ooops !%$@
+### Ooops !%$@ ###
 
 If you say anything you're not comfortable with going into the episode just
 let us know, and it can be trimmed in the edit.
 
-We generally go for non explicit content. But if something's worth swearing
+We generally go for non-explicit content. But if something's worth swearing
 about then we can flip that bit.
 
-### Bio, photo and pronouns
+### Bio, photo and pronouns ###
 
 We create a profile for each guest, which has a bio and 500px square photo.
 Often we can find this stuff on the web. But it helps us out (and helps make
