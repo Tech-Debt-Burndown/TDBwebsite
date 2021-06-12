@@ -1,5 +1,5 @@
 +++
-Description = ""
+Description = "Eoin Woods has developed quite a bit of software, and created and dealt with quite a lot of technical debt. He is CTO at Endava, and co-author of two software architecture books. On the Tech Debt Burndown he joins Chris and Nick to talk about his role in the International Conference on Technical Debt and some of the research highlighted in the virtual 2021 edition of that conference, as well as his own personal experiences in the field."
 Date = 2021-06-12T07:05:59-04:00
 PublishDate = 2021-06-12T07:05:59-04:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "########/play.mp3" # the name of the podcast file, after the media prefix.
