@@ -32,7 +32,7 @@ explicit = "no" # values are "yes" or "no"
 
 #### "There's sometimes an assumption that people in the business of building systems all the time implicitly understand tech debt. I think they definitely don't." - Eoin Woods ####
 
-After intros we ask Eoin about the International Conference on Technical Debt, which recently had it's [4th annual event](https://2021.techdebtconf.org/). Eoin was a keynote speaker at the [first conference](https://2018.techdebtconf.org/), and has stayed involved since.
+After intros we ask Eoin about the International Conference on Technical Debt, which recently had its [4th annual event](https://2021.techdebtconf.org/). Eoin was a keynote speaker at the [first conference](https://2018.techdebtconf.org/), and has stayed involved since.
 
 Eoin goes on to explain that the academic community have found ways to collect data on tech debt that have evaded many practitioners, which has brought fresh insights onto the problems and how they might be addressed.
 
