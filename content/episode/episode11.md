@@ -1,6 +1,6 @@
 +++
 Description = "Allan Friedman of the National Telecommunications and Information Administration (NTIA) has long been one of the world's leading proponents of Software Bill of Materials, or SBOM. With the President's Executive Order on Improving the Nation’s Cybersecurity, SBOM has begun to receive the wider attention it deserves, and Allan joins Chris and Nick to discuss SBOM and how it can help with tech debt burndown."
-Date = 2021-06-12T07:21:05-04:00
+Date = 2021-06-20T07:21:05-04:00
 PublishDate = 2021-06-20T00:00:01-04:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "45272021/play.mp3" # the name of the podcast file, after the media prefix.
 #Get the podcast file by going to spreaker>Podcasts>Episode>Direct Download Link and copy the numbers before
