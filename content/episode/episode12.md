@@ -45,3 +45,5 @@ Nick then asks how the changes are going to be funded, given that many agencies 
 Yosef also sees the order as an opportunity to drive incrmental improvements that might fit into regular upgrade and refresh cycles. He also sees an opportunity with the shift from products to services, which leads to some discussion of public sector cloud adoption.
 
 We wrap up with some discussion on how information sharing between agenecies has improved, with more happening in the open and available to all comers.
+
+Season One finale.
