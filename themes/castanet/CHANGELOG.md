@@ -1,5 +1,63 @@
 # Changelog
 
+## [1.19.0](https://github.com/mattstratton/castanet/tree/1.19.0) (2022-08-10)
+
+**Implemented enhancements:**
+
+- Update Hugo to version 0.91.2 [\#389](https://github.com/mattstratton/castanet/pull/389) ([stmcallister](https://github.com/stmcallister))
+
+## [1.18.0](https://github.com/mattstratton/castanet/tree/1.18.0) (2022-08-10)
+
+**Fixed bugs:**
+
+- \[BUG\] - Issue deploying with Cloudflare pages [\#388](https://github.com/mattstratton/castanet/issues/388)
+
+## [1.17.2](https://github.com/mattstratton/castanet/tree/1.17.2) (2022-07-06)
+
+**Fixed bugs:**
+
+- Fixes Instagram icon [\#385](https://github.com/mattstratton/castanet/pull/385) ([AVGP](https://github.com/AVGP))
+
+## [1.17.1](https://github.com/mattstratton/castanet/tree/1.17.1) (2022-02-22)
+
+**Fixed bugs:**
+
+- \[BUG\] - Upper case problems in title attributes in XML RSS feed [\#337](https://github.com/mattstratton/castanet/issues/337)
+- Error when no menu items are set in config file [\#165](https://github.com/mattstratton/castanet/issues/165)
+
+## [1.17.0](https://github.com/mattstratton/castanet/tree/1.17.0) (2022-02-22)
+
+**Merged pull requests:**
+
+- Bump follow-redirects from 1.13.0 to 1.14.8 [\#372](https://github.com/mattstratton/castanet/pull/372) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [1.16.0](https://github.com/mattstratton/castanet/tree/1.16.0) (2022-02-22)
+
+**Implemented enhancements:**
+
+- \[ENHANCEMENT\] - Social links/parameters should support the full URL [\#350](https://github.com/mattstratton/castanet/issues/350)
+
+**Fixed bugs:**
+
+- \[BUG\] - Update config.toml and sample site to add trailing / for the URLs [\#361](https://github.com/mattstratton/castanet/issues/361)
+
+## [1.15.0](https://github.com/mattstratton/castanet/tree/1.15.0) (2021-04-15)
+
+**Fixed bugs:**
+
+- \[BUG\] - Add trailing / whenever referring to a directory [\#360](https://github.com/mattstratton/castanet/issues/360)
+- \[BUG\] - Episode icon isn't centered [\#357](https://github.com/mattstratton/castanet/issues/357)
+- \[BUG\] - Row layout uses a different media player than episode pages [\#320](https://github.com/mattstratton/castanet/issues/320)
+
+## [1.14.5](https://github.com/mattstratton/castanet/tree/1.14.5) (2021-04-07)
+
+**Fixed bugs:**
+
+- \[BUG\] - Can you change the link to the podcast rss to say "RSS Feed" instead of "Podcast"? [\#355](https://github.com/mattstratton/castanet/issues/355)
+- \[BUG\] - Host images are huge and inconsistently sized when the browser is small or mobile [\#353](https://github.com/mattstratton/castanet/issues/353)
+- \[BUG\] - Episode Layouts are wrong on home page [\#351](https://github.com/mattstratton/castanet/issues/351)
+- \[BUG\] - When site theme is blue, rolling over the social icons doesn't highlight them [\#349](https://github.com/mattstratton/castanet/issues/349)
+
 ## [1.14.4](https://github.com/mattstratton/castanet/tree/1.14.4) (2021-03-01)
 
 **Fixed bugs:**
@@ -38,6 +96,7 @@
 - Add episode numbers/prefix in RSS and Relevant Titles/Links \[Attempt \#2\] [\#322](https://github.com/mattstratton/castanet/pull/322) ([chrisreddington](https://github.com/chrisreddington))
 - Initial implementation for pronouns [\#312](https://github.com/mattstratton/castanet/pull/312) ([chrisreddington](https://github.com/chrisreddington))
 - Create skeleton of blog feature [\#310](https://github.com/mattstratton/castanet/pull/310) ([mattstratton](https://github.com/mattstratton))
+- Add Functionality: Show next upcoming episode [\#309](https://github.com/mattstratton/castanet/pull/309) ([chrisreddington](https://github.com/chrisreddington))
 
 **Fixed bugs:**
 
@@ -53,10 +112,6 @@
 - Test with matrix build [\#321](https://github.com/mattstratton/castanet/pull/321) ([mattstratton](https://github.com/mattstratton))
 
 ## [1.13.0](https://github.com/mattstratton/castanet/tree/1.13.0) (2020-12-01)
-
-**Implemented enhancements:**
-
-- Add Functionality: Show next upcoming episode [\#309](https://github.com/mattstratton/castanet/pull/309) ([chrisreddington](https://github.com/chrisreddington))
 
 ## [1.12.1](https://github.com/mattstratton/castanet/tree/1.12.1) (2020-12-01)
 
