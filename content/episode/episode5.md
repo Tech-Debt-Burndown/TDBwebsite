@@ -48,7 +48,7 @@ Chris spent a bunch of time recently looking at Chaos engineering and how to int
 
 What Chris sees in the bottom 50% of companies is related to a [Charity Majors](https://twitter.com/mipsytipsy/status/1270676644965957633) comment that they have the engine underwater and they have to work ever harder to see that they need to do something to drain the water that is flooding you. 
 
-{{< tweet 1270676644965957633 >}}
+{{< tweet user="mipsytipsy" id="1270676644965957633" >}}
 
 When technical people have to talk to non-technical people about this, people who are smart but don't see the tradeoffs in feature development, the non-tech people don't understand the tradeoffs. Not that they don't want to understand, but that they don't see it. so the quest for metrics is really about finding Indicators Of Tech Debt. 
 
