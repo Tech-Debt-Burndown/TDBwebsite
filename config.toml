@@ -63,3 +63,11 @@ media_prefix = "https://api.spreaker.com/v2/episodes/"
 		name = "Tech Debt Burndown"
 		thumbnail = "img/TDB-Logo.jpg"
 		bio = ""
+
+  [params.giscus]
+    data-repo="Tech-Debt-Burndown/TDBwebsite"
+    data-repo-id="MDEwOlJlcG9zaXRvcnkzNTAyOTk3OTc="
+    data-category-id="MDE4OkRpc2N1c3Npb25DYXRlZ29yeTMyOTE4MDUx"
+    data-mapping="pathname"
+    data-theme="light"
+    crossorigin="anonymous"
