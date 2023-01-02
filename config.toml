@@ -36,11 +36,12 @@ site_theme = "blue"
 site_layout = "grid"
 enable_jumbo = "false"
 favicon = "favicon.ico"
-copyright_notice = "Copyright &copy; 2021 [Tech Debt Burndown](https://techdebtburndown.com)"
+copyright_notice = "Copyright &copy; 2021-23 [Tech Debt Burndown](https://techdebtburndown.com)"
 description = "Chris and Nick chat with each other and guests about technical debt and what to do about it."
 media_prefix = "https://api.spreaker.com/v2/episodes/"
   [params.feed]
-    feed_copyright = "Copyright &copy; 2021 Tech Debt Burndown" #do not use markdown in this field; it is used in the feed
+    copyright = "Copyright &copy; 2021-23 Tech Debt Burndown" #do not use markdown in this field; it is used in the feed
+    feed_copyright = "Copyright &copy; 2021-23 Tech Debt Burndown" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "subtitle" #no markdown or HTML
     itunes_author = "Nick Selby and Chris Swan" #no markdown or HTML
     itunes_summary = "summary" # Limited to 4000 characters or less, plain text, no HTML
@@ -55,9 +56,18 @@ media_prefix = "https://api.spreaker.com/v2/episodes/"
     github = "Tech-Debt-Burndown"
     twitter = "TechDebtPodcast"
     twitter_domain = "techdebtburndown.com"
+    linkedin = "https://www.linkedin.com/groups/12537193/"
 
   [params.authors]
     [params.authors.TDB]
 		name = "Tech Debt Burndown"
 		thumbnail = "img/TDB-Logo.jpg"
 		bio = ""
+
+  [params.giscus]
+    data-repo="Tech-Debt-Burndown/TDBwebsite"
+    data-repo-id="MDEwOlJlcG9zaXRvcnkzNTAyOTk3OTc="
+    data-category-id="MDE4OkRpc2N1c3Npb25DYXRlZ29yeTMyOTE4MDUx"
+    data-mapping="pathname"
+    data-theme="light"
+    crossorigin="anonymous"

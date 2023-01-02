@@ -59,7 +59,7 @@ Chris points out that this makes sense: those programs mentioned in having a pos
 Wendy is quite sensitive to the idea that the two practices identified as most likely to correlate to better outcomes, Proactive Tech Refresh and Well Integrated Technology, are of course seen by the more skeptical of us to have been directly driven by the fact that Cisco is a vendor of that stuff. Wendy insists (and Wade has insisted) that the double-blind nature of the survey administration and the analysis means that it actually was independently learned, not sponsored. We believe it. Wade tweeted about it recently:
 
 
-{{< tweet 1386029061273751552 >}}
+{{< tweet user="wadebaker" id="1386029061273751552" >}}
 
 Also, the survey didn't ask, 'Do you think buying new stuff makes stuff better?' they asked separate questions. The correlations were stronger than they thought. 
 

@@ -2,9 +2,7 @@
 Description = ""
 Date = {{ .Date }}
 PublishDate = {{ .Date }} # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
-podcast_file = "########/play.mp3" # the name of the podcast file, after the media prefix.
-#Get the podcast file by going to spreaker>Podcasts>Episode>Direct Download Link and copy the numbers before
-#/download.mp3. Place these numbers to replace the hashmarks so it is something like 12344567/play.mp3 
+podcast_file = "###.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "img/TDB-Logo.jpg"

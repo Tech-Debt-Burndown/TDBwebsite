@@ -37,7 +37,7 @@ Nick and Chris are joined by Olivier Jacques, a Distinguished Technologist at DX
 
 Olivier thinks that policy debt, technical debt, security, debt, infrastructure, debt, and other debt types are something that must be paid attention to, but he was wondering why we don’t seem to have the time to address them  - we are either too busy, or we don't have the management support, or sometimes we don't even know where to start and what do we improve. So he set out to write up some strategies he feels will help. 
 
-{{< tweet 1390075907805700097 >}}
+{{< tweet user="ojacques2" id="1390075907805700097" >}}
 
 We don't easily know where to start, but he thinks where he saw the biggest struggle was perhaps in explaining to management and leadership what it meant to reduce tech debt, and how to organize a team to make sure that ted debt is not something put on the back burner and forgotten. 
 

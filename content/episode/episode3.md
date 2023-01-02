@@ -34,7 +34,7 @@ explicit = "no" # values are "yes" or "no"
 This is a common question, and Chris and Nick discovered that they do it differently. 
 
 Chris describes how he views tech debt from the perspective of his continuous integration and continuous delivery pipeline: “How quickly can I release, and what’s getting in my way?” He discussed that recently, [Charity Majors](https://twitter.com/mipsytipsy) has been discussing the importance of a quick feedback cycle for developers:
-{{< tweet 1382619734781272066 >}}
+{{< tweet user="mipsytipsy" id="1382619734781272066" >}}
 
 Basically, this comes down to, ‘you’ve got 15 minutes to build’ in order to be good at this, and this brings us to the [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints "The theory of constraints (TOC) is a management paradigm that views any manageable system as being limited in achieving more of its goals by a very small number of constraints. - Wikipedia") thing: what things are blocking me from getting to that 15-minute build time, and how do I get rid of them? 
 

@@ -340,6 +340,7 @@
       </div>
       <!-- disqus ends -->
       {{ end }}
+      {{ with .Site.Params.giscus }}
       <!-- giscus begins -->
       <hr />
       <div class="row">
@@ -347,6 +348,7 @@
           {{ partial "giscus.html" }}
         </div>
       </div>
+      {{ end }}
       <!-- giscus ends -->
 
       <div class="row">
