@@ -24,8 +24,18 @@ explicit = "no" # values are "yes" or "no"
 #series = []
 #tags = []
 +++
-**Recording date: Month Day, Year**
+**Recording date: Jan 24, 2022**
 
 *Download at [Apple Podcasts](https://podcastsconnect.apple.com/my-podcasts/the-tech-debt-burndown-podcast/1562710899), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDg3MzE4MC9lcGlzb2Rlcy9mZWVk), [Spotify](https://open.spotify.com/show/0t15PUgvQYNWQ6LYXJ8zkz), [iHeartRadio](https://iheart.com/podcast/81137852), [Spreaker](https://www.spreaker.com/show/the-tech-debt-burndown-podcast) or wherever you get your podcasts.*
 
-#### "Pull quote from host or guest." - Speaker ####
+#### "When they have figured out what this game was really about, they figured out what should be the response" - Krysztof (Chris) Daniel ####
+
+After intros we start by asking Chris why he got the @wardleymaps Twitter handle, and he explains that he was doing an entrepreneurship course that got him interested in Wardley mapping; and from that he went on to develop an online tool to help people make maps. We then chat a little about Chris’s work at the Leading Edge Forum (LEF), where he works alongside Simon Wardley.
+
+Nick speculates that mapping hasn’t really made it to the US yet, but Chris points out that there are already vibrant communities in the US before giving an overview of the Wardley mapping technique. He then illustrates the approach using a customer case study. This gets into the customer not really knowing what they had (in terms of assets) until they went through the mapping process.
+
+The conversation then turns to situational awareness, and whether that’s a predominantly military concept. Given that there are plenty of veterans about (particularly in infosec), why is it that situation awareness isn’t used more in companies?
+
+We then get into how maps can be used to understand tech debt in organisations. In particular how assets in the value chain that have become debt can be examined for change. That leads into a discussion of the elements of (awkwardly named) doctrine, and where they fit into the overall strategic picture.
+
+Before closing, discussion moves on to corporate structure, which relates to Wardley’s pioneers, settlers and town planners (PST) model.
