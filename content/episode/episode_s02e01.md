@@ -1,7 +1,7 @@
 +++
 Description = "Chris and Nick chat to Krysztof (Chris) Daniel about Strategy and Wardley Maps"
 Date = 2023-01-04T17:14:10Z
-PublishDate = 2023-01-04T17:14:10Z # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+PublishDate = 2023-01-15T13:24:00Z # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "52390806/play.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes

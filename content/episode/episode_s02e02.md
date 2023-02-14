@@ -1,7 +1,7 @@
 +++
 Description = "Nick and Chris talk to Andy Ellis about using the right language with the business, and supporting how they manage risk."
 Date = 2023-01-04T17:14:35Z
-PublishDate = 2023-01-04T17:14:35Z # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+PublishDate = 2023-02-13T13:15:00Z # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "52715904/play.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
