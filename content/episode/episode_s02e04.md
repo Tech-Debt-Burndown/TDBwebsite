@@ -2,7 +2,7 @@
 Description = "Nick and Chris talk to Gene Spafford."
 Date = 2023-10-02T12:00:00Z
 PublishDate = 2023-10-02T12:00:00Z # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
-podcast_file = "53282022/play.mp3" # the name of the podcast file, after the media prefix.
+podcast_file = "57040167/play.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "img/TDB-Logo.jpg"
