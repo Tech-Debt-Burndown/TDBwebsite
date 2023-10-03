@@ -1,6 +1,6 @@
 +++
 Title = "Chris Swan"
-Twitter = "cpswan"
+Mastodon = "https://hachyderm.io/@cpswan"
 Website = "https://chris.swanz.net/"
 Type = "host"
 Linkedin = "chrisswan"
