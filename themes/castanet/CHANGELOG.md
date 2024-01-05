@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.22.2](https://github.com/mattstratton/castanet/tree/1.22.2) (2024-01-05)
+
+**Closed issues:**
+
+- Update CONTRIBUTING.md to remove Codekit references [\#311](https://github.com/mattstratton/castanet/issues/311)
+- Remove unnecessary files from release archive [\#303](https://github.com/mattstratton/castanet/issues/303)
+
+## [1.22.1](https://github.com/mattstratton/castanet/tree/1.22.1) (2024-01-04)
+
+## [1.22.0](https://github.com/mattstratton/castanet/tree/1.22.0) (2024-01-04)
+
+**Implemented enhancements:**
+
+- \[ENHANCEMENT\] - add support for Threads [\#411](https://github.com/mattstratton/castanet/issues/411)
+- Add support for Threads [\#412](https://github.com/mattstratton/castanet/pull/412) ([mattstratton](https://github.com/mattstratton))
+
+## [1.21.9](https://github.com/mattstratton/castanet/tree/1.21.9) (2023-12-29)
+
 ## [1.21.8](https://github.com/mattstratton/castanet/tree/1.21.8) (2023-12-22)
 
 ## [1.21.7](https://github.com/mattstratton/castanet/tree/1.21.7) (2023-12-22)
