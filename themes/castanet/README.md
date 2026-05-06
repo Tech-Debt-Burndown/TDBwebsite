@@ -10,7 +10,7 @@ If you would like to receive emails when new versions of this theme are released
 
 Castanet is a Hugo theme for sites that are primarily podcasts. It is heavily influenced by [ado-hugo](//github.com/arresteddevops/ado-hugo) by [Matt Stratton](//github.com/mattstratton).
 
-An example site can be found at http://sample-castanet.netlify.com/
+An example site can be found at [https://sample-castanet.netlify.com/](https://sample-castanet.netlify.app/)
 
 ![Castanet screenshot](https://github.com/mattstratton/castanet/raw/main/images/screenshot.png)
 
@@ -39,6 +39,7 @@ This is a completely non-comprehensive list of podcasts that use this theme. Wan
 - [Tech Debt Burndown Podcast](https://techdebtburndown.com/)
 - [The Linux Lemming](https://linuxlemming.com)
 - [The R-Podcast](https://r-podcast.org)
+- [The TMPDIR Podcast](https://tmpdir.org/)
 
 ## Sites inspired by / building upon the Castanet theme
 - [Cloud with Chris](https://www.cloudwithchris.com)
