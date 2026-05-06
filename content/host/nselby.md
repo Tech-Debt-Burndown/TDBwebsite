@@ -1,16 +1,15 @@
 +++
 Title = "Nick Selby"
 Mastodon = "https://infosec.exchange/@fuzztech"
-Twitter = "fuzztech"
 Website = "https://nickselby.com"
 Type = "host"
 Linkedin = "nickselby"
 GitHub = "nselby"
-Thumbnail = "img/host/nselby3.jpg"
+Thumbnail = "img/host/nselby4.jpg"
 +++
 
-Nick provides information security, disaster- and cyber incident-readiness assessments at **[Fuzz Technology](https://fuzztechnology.com)**, a subsidiary of **[EPSD, Inc](https://epsd.io)**. From 2021 to 2023, Nick served as VP of the Software Assurance Practice at Trail of Bits (where he was the voice and executive producer of its **[podcast](https://trailofbits.audio)**), and from 2019 to 2021 as Chief Security Officer at Paxos Trust Company. 
+Nick Selby is the founder and Managing Partner of EPSD, with a career spanning technology leadership, not-for-profit leadership, law enforcement, and cybersecurity. He serves on the board of directors of the [National Child Protection Task Force](https://ncptf.org), and the advisory board of [Sightline Security](https://sightlinesecurity.org/).
 
-From 2018 to 2020, Nick served as Director of Cyber Intelligence and Investigations at the **[NYPD Intelligence Bureau](https://en.wikipedia.org/wiki/New_York_City_Police_Department_Intelligence_Bureau)**, where he helped the department understand how it investigates online, and how **[Cyber Enabled crime affects New Yorkers](https://www.npr.org/2020/01/15/796252827/coaxing-cops-to-tackle-cybercrime-theres-an-app-for-that)**. 
+He has held key executive roles at Evertas, Trail of Bits, 451 Research (now S&P Global Intelligence), and Paxos Trust. He served as Director of Cyber Intelligence and Investigations at the NYPD, and as both paid and reserve Texas police detective specializing in investigations of child sexual abuse material and online investigations.
 
-In 2005 he founded the information security practice at industry analyst firm **[451 Research](https://451research.com/)**, (now S&P Global Market Intelligence) where he served until 2009 as 451’s Vice President, Research Operations.
+He is co-author of several books, including [Cyber Attack Survival Manual](https://www.amazon.com/Cyber-Attack-Survival-Manual-Apocalypse/dp/1681886545/), [Blackhatonomics: An Inside Look at the Economics of Cybercrime](https://www.amazon.com/Blackhatonomics-Inside-Look-Economics-Cybercrime/dp/1597497401/), and [In Context: Understanding Police Killings of Unarmed Civilians](https://www.amazon.com/Context-Understanding-Killings-Unarmed-Civilians/dp/0980181704/); he was technical editor of [Investigating Internet Crimes: An Introduction to Solving Crimes in Cyberspace](https://www.amazon.com/Investigating-Internet-Crimes-Introduction-Cyberspace-ebook/dp/B00GR0IBVM/).
