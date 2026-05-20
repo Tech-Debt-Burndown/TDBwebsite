@@ -1,7 +1,7 @@
 +++
 Description = "Chris and Nick chat about AI coding assistants"
 Date = 2026-03-13T10:30:00Z
-PublishDate = 2026-05-20T16:20:00Z # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+PublishDate = 2026-05-20T09:05:00Z # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "71975036/play.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
