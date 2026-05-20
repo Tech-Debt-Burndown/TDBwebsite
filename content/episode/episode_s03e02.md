@@ -46,7 +46,7 @@ Nick: I'm Nick Selby.
 
 Chris: [00:00:30] In the last episode we were talking about the slot machine and tech debt as a service, and how the advances in AI have taken the constraints away from coding but maybe not helped us as much as we need to in terms of review and making things production ready. In this episode, I wanted to explore the fact that in 2026, it feels like a lot of this stuff is working in a way that it previously didn't.
 
-Nick: Yeah, it really is. We were just talking before we were recording. Two years ago, I think Tracy Beynon at QCon was talking about how AI is a teenage apprentice in a wood shop. You give them very specific tasks, but you have to really watch everything. Now it's changing really, really fast. Things actually work. They kind of work more often than they don't.
+Nick: Yeah, it really is. We were just talking before we were recording. Two years ago, I think Tracy Bannon at QCon was talking about how AI is a teenage apprentice in a wood shop. You give them very specific tasks, but you have to really watch everything. Now it's changing really, really fast. Things actually work. They kind of work more often than they don't.
 
 Chris: [00:01:00] Over the past few years, I've been frequently returning to the state of the art tools to see if they can help me with my work. What I had been finding was, yeah, they could help me do trivial stuff. They were obviously useful if you wanted to build a website that was much like the millions of websites already out there and obviously in the training data. I wasn't finding this stuff particularly useful for my work. That's changed completely in 2026.
 
