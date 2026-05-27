@@ -1,7 +1,7 @@
 +++
 Description = "Chris and Nick chat about AI coding assistants"
 Date = 2026-03-13T10:30:00Z
-PublishDate = 2026-05-20T16:20:00Z # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
+PublishDate = 2026-05-20T09:05:00Z # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "71975036/play.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
@@ -25,7 +25,7 @@ explicit = "no" # values are "yes" or "no"
 +++
 **Recording date: Mar 13, 2026**
 
-*Download at [Apple Podcasts](https://podcastsconnect.apple.com/my-podcasts/the-tech-debt-burndown-podcast/1562710899), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDg3MzE4MC9lcGlzb2Rlcy9mZWVk), [Spotify](https://open.spotify.com/show/0t15PUgvQYNWQ6LYXJ8zkz), [iHeartRadio](https://iheart.com/podcast/81137852), [Spreaker](https://www.spreaker.com/show/the-tech-debt-burndown-podcast) or wherever you get your podcasts.*
+*Download at [Apple Podcasts](https://podcastsconnect.apple.com/my-podcasts/the-tech-debt-burndown-podcast/1562710899), [Spotify](https://open.spotify.com/show/0t15PUgvQYNWQ6LYXJ8zkz), [iHeartRadio](https://iheart.com/podcast/81137852), [Spreaker](https://www.spreaker.com/show/the-tech-debt-burndown-podcast) or wherever you get your podcasts.*
 
 #### AI coding assistants
 
@@ -46,7 +46,7 @@ Nick: I'm Nick Selby.
 
 Chris: [00:00:30] In the last episode we were talking about the slot machine and tech debt as a service, and how the advances in AI have taken the constraints away from coding but maybe not helped us as much as we need to in terms of review and making things production ready. In this episode, I wanted to explore the fact that in 2026, it feels like a lot of this stuff is working in a way that it previously didn't.
 
-Nick: Yeah, it really is. We were just talking before we were recording. Two years ago, I think Tracy Beynon at QCon was talking about how AI is a teenage apprentice in a wood shop. You give them very specific tasks, but you have to really watch everything. Now it's changing really, really fast. Things actually work. They kind of work more often than they don't.
+Nick: Yeah, it really is. We were just talking before we were recording. Two years ago, I think Tracy Bannon at QCon was talking about how AI is a teenage apprentice in a wood shop. You give them very specific tasks, but you have to really watch everything. Now it's changing really, really fast. Things actually work. They kind of work more often than they don't.
 
 Chris: [00:01:00] Over the past few years, I've been frequently returning to the state of the art tools to see if they can help me with my work. What I had been finding was, yeah, they could help me do trivial stuff. They were obviously useful if you wanted to build a website that was much like the millions of websites already out there and obviously in the training data. I wasn't finding this stuff particularly useful for my work. That's changed completely in 2026.
 

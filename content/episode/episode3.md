@@ -29,12 +29,12 @@ explicit = "no" # values are "yes" or "no"
 
 **Recording date: April 17, 2021**
 
-*Download at [Apple Podcasts](https://podcastsconnect.apple.com/my-podcasts/the-tech-debt-burndown-podcast/1562710899), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDg3MzE4MC9lcGlzb2Rlcy9mZWVk), [Spotify](https://open.spotify.com/show/0t15PUgvQYNWQ6LYXJ8zkz), [iHeartRadio](https://iheart.com/podcast/81137852), [Spreaker](https://www.spreaker.com/show/the-tech-debt-burndown-podcast) or wherever you get your podcasts.*
+*Download at [Apple Podcasts](https://podcastsconnect.apple.com/my-podcasts/the-tech-debt-burndown-podcast/1562710899), [Spotify](https://open.spotify.com/show/0t15PUgvQYNWQ6LYXJ8zkz), [iHeartRadio](https://iheart.com/podcast/81137852), [Spreaker](https://www.spreaker.com/show/the-tech-debt-burndown-podcast) or wherever you get your podcasts.*
 
 This is a common question, and Chris and Nick discovered that they do it differently. 
 
 Chris describes how he views tech debt from the perspective of his continuous integration and continuous delivery pipeline: “How quickly can I release, and what’s getting in my way?” He discussed that recently, [Charity Majors](https://twitter.com/mipsytipsy) has been discussing the importance of a quick feedback cycle for developers:
-{{< tweet user="mipsytipsy" id="1382619734781272066" >}}
+{{< x user="mipsytipsy" id="1382619734781272066" >}}
 
 Basically, this comes down to, ‘you’ve got 15 minutes to build’ in order to be good at this, and this brings us to the [Theory of Constraints](https://en.wikipedia.org/wiki/Theory_of_constraints "The theory of constraints (TOC) is a management paradigm that views any manageable system as being limited in achieving more of its goals by a very small number of constraints. - Wikipedia") thing: what things are blocking me from getting to that 15-minute build time, and how do I get rid of them? 
 

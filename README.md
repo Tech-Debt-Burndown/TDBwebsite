@@ -63,7 +63,7 @@ Thanks to [Arrested DevOps](https://www.arresteddevops.com/) for making their [w
 
 ## Editing
 
-1. Install [Hugo](http://gohugo.io) - *NOTE: Please make sure it is at least version 0.74.3*
+1. Install [Hugo](http://gohugo.io) - *NOTE: Please make sure it is at least version 0.161.1*
 2. Clone this repo
 3. If you want to fire up a local copy to see your changes as you go: `hugo server -w --baseUrl="http://localhost:1313"`
 4. You probably want to do the previous thing in another pane/window, as it needs to keep running.
