@@ -30,6 +30,9 @@ paginate = 9
     identifier = "guests"
     url = "/guest"
 
+[frontmatter]
+  date = ["publishDate", "date", ":default"]
+
 [params]
 mainSections = ["episode"]
 site_theme = "blue"
