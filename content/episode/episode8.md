@@ -28,7 +28,7 @@ explicit = "no" # values are "yes" or "no"
 +++
 **Recording date: May 17, 2021**
 
-*Download at [Apple Podcasts](https://podcastsconnect.apple.com/my-podcasts/the-tech-debt-burndown-podcast/1562710899), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDg3MzE4MC9lcGlzb2Rlcy9mZWVk), [Spotify](https://open.spotify.com/show/0t15PUgvQYNWQ6LYXJ8zkz), [iHeartRadio](https://iheart.com/podcast/81137852), [Spreaker](https://www.spreaker.com/show/the-tech-debt-burndown-podcast) or wherever you get your podcasts.*
+*Download at [Apple Podcasts](https://podcasts.apple.com/podcast/the-tech-debt-burndown-podcast/id1562710899), [Spotify](https://open.spotify.com/show/0t15PUgvQYNWQ6LYXJ8zkz), [iHeartRadio](https://iheart.com/podcast/81137852), [Spreaker](https://www.spreaker.com/show/the-tech-debt-burndown-podcast) or wherever you get your podcasts.*
 
 #### "Everybody wants to reduce tech debt, but nobody wants to pay for it." - Olivier ####
 
@@ -37,7 +37,7 @@ Nick and Chris are joined by Olivier Jacques, a Distinguished Technologist at DX
 
 Olivier thinks that policy debt, technical debt, security, debt, infrastructure, debt, and other debt types are something that must be paid attention to, but he was wondering why we don’t seem to have the time to address them  - we are either too busy, or we don't have the management support, or sometimes we don't even know where to start and what do we improve. So he set out to write up some strategies he feels will help. 
 
-{{< tweet user="ojacques2" id="1390075907805700097" >}}
+{{< x user="ojacques2" id="1390075907805700097" >}}
 
 We don't easily know where to start, but he thinks where he saw the biggest struggle was perhaps in explaining to management and leadership what it meant to reduce tech debt, and how to organize a team to make sure that ted debt is not something put on the back burner and forgotten. 
 
