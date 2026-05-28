@@ -5,10 +5,10 @@ theme = "castanet"
 paginate = 9
 
 [permalinks]
-	page = "/:filename/"
-	about = "/:filename/"
-	episode = "/:filename/"
-	redirect = "/:filename"
+	page = "/:contentbasename/"
+	about = "/:contentbasename/"
+	episode = "/:contentbasename/"
+	redirect = "/:contentbasename"
 
 [outputs]
   home = ["HTML", "RSS"]
@@ -29,6 +29,9 @@ paginate = 9
     name = "Guests"
     identifier = "guests"
     url = "/guest"
+
+[frontmatter]
+  date = ["publishDate", "date", ":default"]
 
 [params]
 mainSections = ["episode"]
@@ -54,8 +57,6 @@ media_prefix = "https://api.spreaker.com/v2/episodes/"
 
   [params.social]
     github = "Tech-Debt-Burndown"
-    twitter = "TechDebtPodcast"
-    twitter_domain = "techdebtburndown.com"
     linkedin = "https://www.linkedin.com/groups/12537193/"
 
   [params.authors]
