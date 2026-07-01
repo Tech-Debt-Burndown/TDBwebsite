@@ -5,7 +5,7 @@ Website = "https://chris.swanz.net/"
 Type = "host"
 Linkedin = "chrisswan"
 GitHub = "cpswan"
-Thumbnail = "img/host/cswan.jpg"
+Thumbnail = "img/host/cswan2026.jpg"
 +++
 Chris Swan is an Engineer at Atsign, building the Atsign Platform, an open source networking platform that is putting people in control of their data and removing the frictions and surveillance associated with today’s Internet.
 
