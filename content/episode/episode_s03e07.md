@@ -2,7 +2,7 @@
 Description = "Chris and Nick on Overambitious AI Intern"
 Date = 2026-06-05T13:00:00Z
 PublishDate = 2026-06-24T12:00:00Z # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
-podcast_file = "71986204/play.mp3" # the name of the podcast file, after the media prefix.
+podcast_file = "72556277/play.mp3" # the name of the podcast file, after the media prefix.
 podcast_duration = ""
 #podcast_bytes = "" # the length of the episode in bytes
 episode_image = "img/TDB-Logo.jpg"
